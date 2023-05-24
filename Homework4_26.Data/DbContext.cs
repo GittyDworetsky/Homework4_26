@@ -24,4 +24,4 @@ namespace Homework4_26.Data
         public DbSet<Image> Images { get; set; }
     }
 }
-}
+
